@@ -1,2 +1,2 @@
 # RandomForest
-Classification Problem Solving using Random Forest Algorithm
+Classification Problems Solving using Random Forest Algorithm
